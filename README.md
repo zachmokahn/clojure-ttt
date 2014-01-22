@@ -107,8 +107,14 @@ To quit press
 ctrl + c
 ```
 
-## To Run Specs
+## Test Coverage
 
+#### Run specs
 ```
 $ lein spec
+```
+
+#### To run specs with documentation
+```
+$ lein spec -f d
 ```
